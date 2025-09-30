@@ -1,0 +1,57 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Health and Medicine",
+      "Epidemiology"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Health and Medicine",
+      "Social Medicine"
+    ]
+  ],
+  "legacy_uid": "fa83ac7e-dcb9-7131-ae68-a68f8cf28f63",
+  "instructors": {
+    "content": [
+      "ece6987b-444e-ee03-f65a-2b0a6084edcd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "adaca182-c420-0a97-3551-1a4835e68aef",
+    "website": "20-102-macroepidemiology-be-102-spring-2005"
+  },
+  "course_title": "Macroepidemiology (BE.102)",
+  "hide_download": true,
+  "course_description": "This course presents a challenging multi-dimensional perspective on the causes of human disease and mortality. The course focuses on analyses of major causes of mortality in the US since 1900: cancer, cardiovascular and cerebrovascular diseases, diabetes, and infectious diseases. Students create analytical models to derive estimates for historically variant population risk factors and physiological rate parameters, and conduct analyses of familial data to separately estimate inherited and environmental risks. The course evaluates the basic population genetics of dominant, recessive and non-deleterious inherited risk factors.\n",
+  "department_numbers": [
+    "20"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "20.102",
+  "course_image_thumbnail": {
+    "content": "8c151090-2567-88fb-53e8-c904e85d43d6",
+    "website": "20-102-macroepidemiology-be-102-spring-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "68f47f02-ace9-48b7-89a9-12527a9041a4",
+  "site_short_id": "20.102-spring-2005",
+  "site_url_path": "courses/20-102-macroepidemiology-be-102-spring-2005",
+  "title": "Course Metadata"
+}
