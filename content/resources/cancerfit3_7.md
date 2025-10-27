@@ -4,8 +4,6 @@ description: ''
 file: /courses/20-102-macroepidemiology-be-102-spring-2005/b42b4e1fd8503d2aa70b95d79ce59ead_CancerFit3_7.jar
 file_size: 212923
 file_type: application/zip
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

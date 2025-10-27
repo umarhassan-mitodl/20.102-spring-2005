@@ -4,8 +4,6 @@ description: ''
 file: /courses/20-102-macroepidemiology-be-102-spring-2005/cc0550dca8acefb4b7c861cbc617f432_be_102_lecture_1.pdf
 file_size: 1347565
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

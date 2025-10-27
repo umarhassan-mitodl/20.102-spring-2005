@@ -3,8 +3,6 @@ content_type: page
 description: This section provides descriptions of the course assignments, consisting
   of a major analytic term paper, produced in stages during the term, plus a few discrete
   problem sets.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

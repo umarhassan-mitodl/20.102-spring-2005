@@ -5,8 +5,6 @@ description: Homework assignment. The epidemiological data and analysis program 
 file: /courses/20-102-macroepidemiology-be-102-spring-2005/dfdaebe1177ff819d87bb0fd5d0c41ed_problem_set3.pdf
 file_size: 8892
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

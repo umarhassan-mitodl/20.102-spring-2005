@@ -5,8 +5,6 @@ description: Optional homework assignment. The epidemiological data and analysis
 file: /courses/20-102-macroepidemiology-be-102-spring-2005/ef5934d17994e067854e14fb520c545d_problem_set2.pdf
 file_size: 9130
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
